@@ -1,0 +1,22 @@
+.Page{
+ 
+}
+
+.Title{
+  font-size: 96px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.Subtitle{
+  font-size:36px;
+  font-weight: 100;
+  text-align: center;
+  margin-top:30px;
+}
+
+.CardBox{
+  display: flex;
+  gap: 10px;
+}
